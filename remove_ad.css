@@ -1,0 +1,28 @@
+/* Amazon */
+iframe[src*="amazon"],
+
+    /* Facebook */
+div[class="fb_iframe_widget"],
+
+    /* Global */
+.ad, #ad,
+div[id*="adzerk"],
+.dontPrint,
+.kskdDiv,
+.IL_BASE,
+
+    /* Google */
+.GoogleActiveViewClass,
+div[id*="google"],
+ins.adsbygoogle,
+
+    /* Taboola */
+div[id*="taboola"],
+
+    /* Yahoo */
+div[data-component="yahooAdSearch"],
+
+    /* zz slider */
+#zzcontent,
+#zzsliderlayer_box
+{display:none !important;}
