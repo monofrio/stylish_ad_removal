@@ -14,6 +14,7 @@ div[id*="adzerk"],
     /* Google */
 .GoogleActiveViewClass,
 div[id*="google"],
+iframe[id*="google"],
 ins.adsbygoogle,
 
     /* Taboola */
