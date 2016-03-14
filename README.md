@@ -5,7 +5,9 @@ Just create a new style sheet and add in the css and save it.
 
 
 [Stylish extention for Chrome ](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en)
+
 [Stylish extention for Firefox](https://addons.mozilla.org/en-US/firefox/addon/stylish/)
+
 [Stylish extention for Safari](http://sobolev.us/stylish/)
 
 ```
