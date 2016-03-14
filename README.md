@@ -8,6 +8,9 @@ Stylish extention for [Chrome](https://chrome.google.com/webstore/detail/stylish
 , [Firefox](https://addons.mozilla.org/en-US/firefox/addon/stylish/), or [Safari](http://sobolev.us/stylish/)
 
 ```
+/* Ad Choice */
+    .adv-sidebar-fixed-1,
+
 /* Amazon */
     iframe[src*="amazon"],
 
@@ -25,6 +28,8 @@ Stylish extention for [Chrome](https://chrome.google.com/webstore/detail/stylish
     ins[id*="aswift"],
     iframe[id*="aswift"],
     #aswift_1_expand,
+    .post-ad,
+
 
 /* Google */
     .GoogleActiveViewClass,
@@ -37,11 +42,12 @@ Stylish extention for [Chrome](https://chrome.google.com/webstore/detail/stylish
 
 /* Yahoo */
     div[data-component="yahooAdSearch"],
+    .yahoo-ad,
 
 /* zz slider */
     #zzcontent,
     #zzsliderlayer_box
-
     {display:none !important;}
+
 
 ```

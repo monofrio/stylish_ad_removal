@@ -1,34 +1,40 @@
+/* Ad Choice */
+    .adv-sidebar-fixed-1,
+
 /* Amazon */
-iframe[src*="amazon"],
+    iframe[src*="amazon"],
 
-    /* Facebook */
-div[class="fb_iframe_widget"],
+/* Facebook */
+    div[class="fb_iframe_widget"],
 
-    /* Global */
-.ad, #ad,
-div[id*="adzerk"],
-.dontPrint,
-.kskdDiv,
-.IL_BASE,
-iframe[id*="ox_"],
-div[data-ad-name],
-ins[id*="aswift"],
-iframe[id*="aswift"],
-#aswift_1_expand,
+/* Global */
+    .ad, #ad,
+    div[id*="adzerk"],
+    .dontPrint,
+    .kskdDiv,
+    .IL_BASE,
+    iframe[id*="ox_"],
+    div[data-ad-name],
+    ins[id*="aswift"],
+    iframe[id*="aswift"],
+    #aswift_1_expand,
+    .post-ad,
 
-    /* Google */
-.GoogleActiveViewClass,
-div[id*="google"],
-iframe[id*="google"],
-ins.adsbygoogle,
 
-    /* Taboola */
-div[id*="taboola"],
+/* Google */
+    .GoogleActiveViewClass,
+    div[id*="google"],
+    iframe[id*="google"],
+    ins.adsbygoogle,
 
-    /* Yahoo */
-div[data-component="yahooAdSearch"],
+/* Taboola */
+    div[id*="taboola"],
 
-    /* zz slider */
-#zzcontent,
-#zzsliderlayer_box
-{display:none !important;}
+/* Yahoo */
+    div[data-component="yahooAdSearch"],
+    .yahoo-ad,
+
+/* zz slider */
+    #zzcontent,
+    #zzsliderlayer_box
+    {display:none !important;}
