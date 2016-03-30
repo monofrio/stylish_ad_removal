@@ -9,45 +9,52 @@ Stylish extention for [Chrome](https://chrome.google.com/webstore/detail/stylish
 
 ```
 /* Ad Choice */
-    .adv-sidebar-fixed-1,
+.adv-sidebar-fixed-1,
+iframe[id*="asset"],
+div[id*="trigger"],
+span[id*="trigger"],
+iframe[id*="Banner"],
+img[id*="adInfo"],
 
-/* Amazon */
-    iframe[src*="amazon"],
+    /* Amazon */
+iframe[src*="amazon"],
 
-/* Facebook */
-    div[class="fb_iframe_widget"],
+    /* Facebook */
+div[class="fb_iframe_widget"],
 
-/* Global */
-    .ad, #ad,
-    div[id*="adzerk"],
-    .dontPrint,
-    .kskdDiv,
-    .IL_BASE,
-    iframe[id*="ox_"],
-    div[data-ad-name],
-    ins[id*="aswift"],
-    iframe[id*="aswift"],
-    #aswift_1_expand,
-    .post-ad,
+    /* Global */
+.ad, #ad,
+div[id*="adzerk"],
+.dontPrint,
+.kskdDiv,
+.IL_BASE,
+iframe[id*="ox_"],
+div[data-ad-name],
+ins[id*="aswift"],
+iframe[id*="aswift"],
+#aswift_1_expand,
+.post-ad,
+span[id*="ad_"],
+div[id*="ad_"],
 
 
-/* Google */
-    .GoogleActiveViewClass,
-    div[id*="google"],
-    iframe[id*="google"],
-    ins.adsbygoogle,
+    /* Google */
+.GoogleActiveViewClass,
+div[id*="google"],
+iframe[id*="google"],
+ins.adsbygoogle,
 
-/* Taboola */
-    div[id*="taboola"],
+    /* Taboola */
+div[id*="taboola"],
 
-/* Yahoo */
-    div[data-component="yahooAdSearch"],
-    .yahoo-ad,
+    /* Yahoo */
+div[data-component="yahooAdSearch"],
+.yahoo-ad,
 
-/* zz slider */
-    #zzcontent,
-    #zzsliderlayer_box
-    {display:none !important;}
+    /* zz slider */
+#zzcontent,
+#zzsliderlayer_box
+{display:none !important;}
 
 
 ```
