@@ -3,8 +3,11 @@
 iframe[id*="asset"],
 div[id*="trigger"],
 span[id*="trigger"],
+<<<<<<< Updated upstream
 iframe[id*="Banner"],
 img[id*="adInfo"],
+=======
+>>>>>>> Stashed changes
 
     /* Amazon */
 iframe[src*="amazon"],

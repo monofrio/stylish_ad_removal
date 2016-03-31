@@ -13,8 +13,11 @@ Stylish extention for [Chrome](https://chrome.google.com/webstore/detail/stylish
 iframe[id*="asset"],
 div[id*="trigger"],
 span[id*="trigger"],
+<<<<<<< Updated upstream
 iframe[id*="Banner"],
 img[id*="adInfo"],
+=======
+>>>>>>> Stashed changes
 
     /* Amazon */
 iframe[src*="amazon"],
@@ -57,4 +60,8 @@ div[data-component="yahooAdSearch"],
 {display:none !important;}
 
 
+<<<<<<< Updated upstream
 ```
+=======
+```
+>>>>>>> Stashed changes
